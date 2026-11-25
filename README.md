@@ -4,7 +4,7 @@ A collection of 47 tools for Windows.
 
 ## Download
 
-Download `31hw-tools-0.1.0-setup.exe` from the [latest release](#).
+Download `31hw-tools-0.1.0-setup.exe` from the [latest release](#https://github.com/31hw/31hw-s-Tools/releases/tag/v0.1.0).
 
 ## Installation
 
